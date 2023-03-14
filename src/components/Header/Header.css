@@ -1,0 +1,6 @@
+nav {
+  height: 6rem;
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid #639eac;
+}

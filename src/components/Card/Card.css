@@ -1,0 +1,24 @@
+.card {
+  padding: 2rem 3rem;
+  border-radius: 0.5rem;
+  text-align: center;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.card img {
+  width: 120px;
+  border-radius: 9999px;
+  border: 1px solid #639eac;
+}
+
+.button {
+  text-decoration: none;
+  background-color: #639eac;
+  color: white;
+  padding: 0.5rem 1.5rem;
+  border-radius: 0.5rem;
+}
+
+.button:hover {
+  filter: brightness(95%);
+}
